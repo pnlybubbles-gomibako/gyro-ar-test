@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+#video {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: 0;
+}
+
+#app {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
+}
